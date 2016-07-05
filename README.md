@@ -3,12 +3,12 @@ A free movie download link clawler,written by [golang][1], it provides a web-bas
 user interface to configure, watch what is going on, manage the result movie names and rates ...
 
 ### Features
-- [] Core engine of crawling 
-- [] Result storage, SQLite is enough now
-- [] Rules definition
-- [] Rate by [Douban][2] users
-- [] Blacklist, do not visit again if they don't welcome us
-- [] Others....
+- [ ] Core engine of crawling 
+- [ ] Result storage, SQLite is enough now
+- [ ] Rules definition
+- [ ] Rate by [Douban][2] users
+- [ ] Blacklist, do not visit again if they don't welcome us
+- [ ] Others....
 
 ### How to run
 Just download the source codes and build it yourself.
